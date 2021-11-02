@@ -1,0 +1,29 @@
+table,th{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: inherit;
+    color:darkred;
+    background-color:#e6a6a6;
+}
+
+table,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: inherit;
+    color:darkred;
+    background-color:aquamarine;
+}
+
+body
+{
+    font-size: 20px; 
+    font-style: oblique;
+    align-content: space-around;
+    background-color:#FFFFFF;
+    image-resolution: snap;
+    background-blend-mode: difference;
+    text-decoration: inherit;
+    font-family: sans-serif;
+    background-image: url(images/photo-1554735231-2250c114a31d.jpg);
+    
+}
